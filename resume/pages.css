@@ -1,0 +1,29 @@
+body {
+  font-family: Georgia, serif;
+  font-size: 100%;
+  line-height: 175%;
+  margin: 0 15% 0; 
+background-color: #19181f;
+ }
+body {
+  color: white;
+}
+
+h1 {
+  color: #da8664;
+}
+
+h2 {
+color: #da8664;
+}
+h3 {
+color: #da8664;
+}
+a {
+  background-color: #19181f;
+  transition: background-color .5s;
+}
+
+a:hover {
+  background-color: white;
+}
