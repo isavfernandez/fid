@@ -27,10 +27,12 @@ margin-left: .5em;
 margin-right: .5em;
 }
 a {
-background-color: powderblue;
-transition: background-color.5s;
+  background-color: powderblue;
+  transition: background-color .5s;
 }
+
 a:hover {
-background-color:gold;
+  background-color: gold;
 }
+
 
