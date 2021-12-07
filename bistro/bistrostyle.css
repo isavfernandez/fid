@@ -26,4 +26,7 @@ height: 40px;
 margin-left: .5em;
 margin-right: .5em;
 }
+a:hover {
+  background-color: white;
+}
 
